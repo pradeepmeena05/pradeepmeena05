@@ -1,0 +1,25 @@
+import java.util.Scanner;
+	public class EXception{
+		public static void main(String[]args){
+			
+			Scanner sc=new Scanner(System.in);
+			 int a=sc.mextInt();
+			 int b=sc.nextInt();
+			 
+			 	try{
+			 				int result=a/b;
+			 				System.out.println(result);
+			 		 }
+			 		 
+			 	catch(ArithmeticException)
+			 	   {
+			 			  System.out.println("Exception caught:DiVision by zero");
+			 		
+			 		 }
+			 		 
+			 }
+ }  
+			
+			
+
+

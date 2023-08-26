@@ -1,0 +1,14 @@
+created connection to ipfs at {
+  host: 'ipfs.nebula.land',
+  port: '',
+  protocol: 'https:',
+  pathname: '/api/v0',
+  'api-path': '/api/v0'
+}
+created connection to ipfs at {
+  host: 'ipfs.nebula.land',
+  port: '',
+  protocol: 'https:',
+  pathname: '/api/v0',
+  'api-path': '/api/v0'
+}
