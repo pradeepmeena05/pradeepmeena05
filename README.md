@@ -1,7 +1,17 @@
-<img src="https://camo.githubusercontent.com/58ad0e971ab4888f7e5974a9f5922b36de02b4ff8f578f337721800242cba02d/68747470733a2f2f69302e77702e636f6d2f77616e646572696e2e6465762f77702d636f6e74656e742f75706c6f6164732f323031392f31322f63726f702d302d302d313137302d3339302d302d61626f75742d636f7665722e706e673f773d313137302673736c3d31" alt="" width="1000" height="300">
+<img  src="https://camo.githubusercontent.com/58ad0e971ab4888f7e5974a9f5922b36de02b4ff8f578f337721800242cba02d/68747470733a2f2f69302e77702e636f6d2f77616e646572696e2e6465762f77702d636f6e74656e742f75706c6f6164732f323031392f31322f63726f702d302d302d313137302d3339302d302d61626f75742d636f7665722e706e673f773d313137302673736c3d31" alt="" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Pradeep Meena</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+🌱 I’m currently learning DSA and WEBDEVELAPMENT
+
+👨‍💻 All of my projects are available at (https://github.com/pradeepmeena05?tab=repositories)
+
+💬 Ask me about Java, Data Structure and Algorithm, web developemnt
+
+📫 How to reach me pradeepmeena34330@gmail.com
+
+📄 Know about my experiences www.linkedin.com/in/pradeep-meena
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
