@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Pradeep Meena</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-🌱 I’m currently learning DSA and WEBDEVELAPMENT
+🌱 I’m currently learning Webdevelopment...
 
 👨‍💻 All of my projects are available at (https://github.com/pradeepmeena05?tab=repositories)
 
-💬 Ask me about Java, Data Structure and Algorithm, web developemnt
+💬 Ask me about Java, Data Structure and Algorithm, web developemnt....
 
-📫 How to reach me pradeepmeena34330@gmail.com
+📫 How to reach me pradeepmeena34330@gmail.com...
 
-📄 Know about my experiences www.linkedin.com/in/pradeep-meena
+📄 Know about my experiences www.linkedin.com/in/pradeep-meena...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
